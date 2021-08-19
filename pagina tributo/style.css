@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body{
+    font-family:'Anton', sans-serif;
+    font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #000000;
+  margin: 0;
+  background-color: yellow;
+}
+
+.navbar{
+    background-color: rgb(230, 36, 36) !important;
+    font-family: 'Anton', sans-serif;
+    color:white !important;
+    font-size: 60px !important;
+    border-radius: 40px !important;
+    margin:5px;
+}
+
+.navbar-toggler{
+    background-color: rgb(255, 136, 0) !important;
+    font-family: 'Anton', sans-serif;
+    color:white !important;
+}
+
+#img{
+   width:98%; 
+   margin-top:138px;
+   border-radius: 40px !important;
+   ;
+}
+
+section{
+    background-color: rgb(255, 136, 0) ;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 100px;
+    border-radius: 40px;
+}
+
+a{
+    color: red;
+}
